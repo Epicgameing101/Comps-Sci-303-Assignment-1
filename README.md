@@ -1,11 +1,11 @@
 This program allows you to search, modify, add, and remove numbers from an array with the numbers 1-100. 
 Instructions to use this program are as follows:
 
-1.) A Menu will appear with 5 options for you to choose from, you can choose any of the first 4 options to interact with the array.
-2.) Once an option has been selected, the menu will give you further instructions on what to do in regards to your chosen option. 
+1. A Menu will appear with 5 options for you to choose from, you can choose any of the first 4 options to interact with the array.
+2. Once an option has been selected, the menu will give you further instructions on what to do in regards to your chosen option. 
   *Please Note: only numbers can be accepted to select any option and for the interaction menu. Any other character which is not a digit, will cause an error.
-3.) After finishing with the selected option you will repeatedly gain the ability to choose another option.
-4.) If you wish to stop the program simply enter '5' once you are able to choose from any of the options.
+3. After finishing with the selected option you will repeatedly gain the ability to choose another option.
+4. If you wish to stop the program simply enter '5' once you are able to choose from any of the options.
 
 Visual Images:
 ![Pic1](https://github.com/user-attachments/assets/cca6f864-bb8b-48f7-8f47-3ed73b3ceec3)
