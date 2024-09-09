@@ -6,6 +6,7 @@ Instructions to use this program are as follows:
   *Please Note: only numbers can be accepted to select any option and for the interaction menu. Any other character which is not a digit, will cause an error.
 3.) After finishing with the selected option you will repeatedly gain the ability to choose another option.
 4.) If you wish to stop the program simply enter '5' once you are able to choose from any of the options.
+
 Visual Images:
 ![Pic1](https://github.com/user-attachments/assets/cca6f864-bb8b-48f7-8f47-3ed73b3ceec3)
 ![Pic2](https://github.com/user-attachments/assets/d7dd767b-c14e-4874-af7d-2795252346de)
